@@ -1,0 +1,6 @@
+﻿  List.cpp
+  Student.cpp
+  学生学籍管理系统.cpp
+C:\Users\该电脑的使用者\OneDrive\桌面\学生学籍管理系统\Firs_Level_Menu.h(117,36): warning C4244: “+=”: 从“std::streamoff”转换到“long”，可能丢失数据
+  正在生成代码...
+  学生学籍管理系统.vcxproj -> C:\Users\该电脑的使用者\OneDrive\桌面\学生学籍管理系统\x64\Debug\学生学籍管理系统.exe
